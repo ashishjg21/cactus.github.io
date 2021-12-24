@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# config.toml
+
+theme = "cactus"
+
+[params]
+
+  colortheme = "dark" # dark, light, white, or classi
+
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/ashishjg21"
+
+[[params.social]]
+  name = "email"
+  link = "ajg8188@gmail.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/ashish-galagali/"
